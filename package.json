@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/justind000/atom-swd-debugger.git"
+    "url": "git+https://github.com/ionnetwork/atom-swd-debugger.git"
   },
   "license": "MIT",
   "engines": {
@@ -27,7 +27,7 @@
   ],
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/justind000/atom-swd-debugger/issues"
+    "url": "https://github.com/ionnetwork/atom-swd-debugger/issues"
   },
   "homepage": "ion.network",
   "_atomModuleCache": {

@@ -1,7 +1,7 @@
 {
   "name": "swd-debugger",
   "main": "./lib/debugger",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "SWD GDB debugger",
   "activationCommands": {
     "atom-workspace": "debugger:toggle"
